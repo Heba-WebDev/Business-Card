@@ -1,0 +1,53 @@
+.card-wrapper {
+    background-color: #23252C;
+    color: white;
+    max-height: 30rem;
+    text-align: center;
+    display: grid;
+    gap: 0.4rem;
+    
+}
+
+.card-img {
+    max-width: 25rem;
+    max-height: 20rem;
+    margin: 0 auto;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.card-wrapper > h1 {
+    font-size: 2.5rem;
+}
+
+.card-wrapper > h3 {
+    color: #F3BF99;
+}
+
+.card-wrapper > span {
+    font-size: 1rem;
+}
+
+.card-btns {
+display: flex;
+flex-direction: row;
+gap: 0.5rem;
+margin: 0 auto;
+padding: 1rem 0;
+}
+
+.email {
+padding: 0.3rem 2.3rem;
+border: 0;
+border-radius: 5px;
+background-color: white;
+font-size: 1.3rem;
+}
+.linkedin {
+background-color: #5093E2;
+color: white;
+padding: 0.3rem 2rem;
+border: 0;
+border-radius: 5px;
+font-size: 1.3rem;
+}

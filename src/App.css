@@ -1,0 +1,23 @@
+/*Font Family: Poppins 500 & 700*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* make images easier to work with */
+img,
+picutre {
+    max-width: 100%;
+    display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #23252C;
+}
