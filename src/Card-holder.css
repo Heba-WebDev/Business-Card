@@ -2,3 +2,14 @@
 
 
 
+.card-holder {
+    background-color: #1A1B21;
+    color: white;
+    max-height: 30rem;
+    text-align: center;
+    display: grid;
+    gap: 0.4rem;
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 3rem;
+}

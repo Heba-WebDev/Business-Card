@@ -1,15 +1,13 @@
 .card-wrapper {
-    background-color: #23252C;
+    background-color: #1A1B21;
     color: white;
-    max-height: 30rem;
     text-align: center;
     display: grid;
     gap: 0.4rem;
-    
 }
 
 .card-img {
-    max-width: 25rem;
+    max-width: 100%;
     max-height: 20rem;
     margin: 0 auto;
     border-top-left-radius: 0.5rem;
