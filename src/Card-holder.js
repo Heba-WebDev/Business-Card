@@ -3,6 +3,7 @@ import './Card-holder.css';
 import CardInfo from "./card-info.js"
 import About from "./About"
 import Interests from "./Interests"
+import Socials from "./Socials";
 
 export default function CardHolder() {
     return(
@@ -10,6 +11,7 @@ export default function CardHolder() {
            <CardInfo /> 
            <About />
            <Interests />
+           <Socials />
         </div>
     )
 }
